@@ -43,7 +43,7 @@ Traditional fintech applications are retrospective—they tell you where your mo
 │   ├── Engine/           # PulseModule (The Brain)
 │   └── Landing/          # Hero Intelligence components
 └── public/               # Institutional Brand Assets
-📈 2026 Roadmap
+## 📈 2026 Roadmap
 [x] Stage 1: Identity Genesis - Brand locking & Institutional UI architecture.
 
 [x] Stage 2: DNA Induction - Secure login & automated user calibration.
@@ -52,7 +52,7 @@ Traditional fintech applications are retrospective—they tell you where your mo
 
 [ ] Stage 4: Autonomous Wealth - One-tap "Leak Plugging" & Automated growth routing.
 
-⚙️ Deployment & Setup
+## ⚙️ Deployment & Setup
 1. Initialize Intelligence Engine (Backend)
 cd backend
 pip install -r requirements.txt
@@ -61,5 +61,10 @@ uvicorn main:app --reload
 2. Initialize Interface (Frontend)
 npm install
 npm run dev
+
+## Demo Screenshots
+<img width="1909" height="976" alt="image" src="https://github.com/user-attachments/assets/35e2e425-e6d0-4749-8743-ff4d0b3379b9" />
+<img width="1873" height="940" alt="image" src="https://github.com/user-attachments/assets/0ff9d5c7-cc52-4327-aa8e-c21af24297b9" />
+<img width="1919" height="940" alt="Screenshot 2026-04-20 154638" src="https://github.com/user-attachments/assets/9c470208-4004-4b0a-b19a-f4f551cb6722" />
 
 Institutional Disclaimer: © 2026 Vaultic Decision Intelligence. Created by Rudra Sharma. Proprietary & Confidential. All assets, logic, and "Neural Forecast" algorithms are protected under startup development protocols.
