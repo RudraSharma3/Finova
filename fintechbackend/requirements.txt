@@ -4,3 +4,4 @@ instructor
 google-genai
 pydantic
 python-dotenv
+sqlmodel
