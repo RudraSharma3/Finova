@@ -5,3 +5,4 @@ google-genai
 pydantic
 python-dotenv
 sqlmodel
+jose
